@@ -1,0 +1,13 @@
+requests
+flask
+redis
+numpy
+pandas
+scipy
+matplotlib
+pillow
+xmltodict
+opencv-python
+tensorflow
+keras
+

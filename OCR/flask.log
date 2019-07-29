@@ -1,0 +1,139 @@
+2019-07-06 00:37:27,574 - INFO - ocr_app.py - ocr_interface - 110 - 2019-07-06 00:37:27160870704241AGC1
+2019-07-06 00:39:35,084 - INFO - ocr_app.py - ocr_interface - 110 - 160870704241 - AG - C2
+2019-07-06 00:39:43,786 - INFO - ocr_app.py - ocr_interface - 110 - 160870704241 - AG - C1
+2019-07-06 00:39:43,982 - INFO - ocr_app.py - check_money - 299 - 160870704241 - AG - C1 - 2000 - 2100
+2019-07-06 00:39:43,989 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-06 00:39:46,634 - INFO - ocr_app.py - ocr_interface - 110 - 160870704241 - AG - C1
+2019-07-06 01:10:44,880 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-06 01:11:10,760 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-06 17:50:07,657 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-06 17:59:21,678 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-06 17:59:39,083 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-06 18:01:00,115 - WARNING - ocr_app.py - ocr_interface - 126 - local variable 'cursor' referenced before assignment
+2019-07-06 18:01:11,046 - WARNING - ocr_app.py - ocr_interface - 126 - local variable 'cursor' referenced before assignment
+2019-07-06 18:02:26,505 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-07 02:12:19,294 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-07 02:22:08,090 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:31,494 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:34,252 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:37,640 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:40,800 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:44,338 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:49,515 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:22:53,462 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:23:11,108 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:23:14,849 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:23:18,400 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:23:58,046 - WARNING - ocr_app.py - ocr_interface - 126 - OpenCV(4.0.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:725: error: (-215:Assertion failed) !buf.empty() && buf.isContinuous() in function 'imdecode_'
+
+2019-07-07 02:25:43,686 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 17:55:01,442 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 17:55:57,794 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 17:56:22,216 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 17:57:31,803 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 18:01:08,753 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 18:04:25,488 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 18:04:33,690 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 18:05:39,894 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 18:08:19,855 - WARNING - ocr_app.py - ocr_interface - 126 - local variable 'cursor' referenced before assignment
+2019-07-09 18:09:36,997 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 18:09:40,781 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:05:22,935 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:06:00,689 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:06:15,551 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:08:52,187 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:10:21,200 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:10:34,394 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:10:45,526 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:11:38,910 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:12:13,580 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:13:19,807 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:13:24,374 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:37:57,262 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:38:28,995 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:38:50,622 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:38:59,814 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:39:28,497 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:39:35,571 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:40:16,147 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:40:54,045 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:40:59,489 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:41:23,244 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:41:32,868 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:42:16,079 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:42:36,116 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:42:45,693 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:43:21,012 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:44:26,226 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:44:37,623 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:45:23,574 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 20:46:20,349 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:20:54,123 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:21:03,323 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:21:13,069 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:22:21,796 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:23:01,903 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:23:32,087 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:24:05,639 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:24:11,820 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:24:46,108 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:24:48,860 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:25:26,241 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:25:51,065 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:26:00,070 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:26:29,081 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:26:40,993 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:27:05,603 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:27:13,609 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:27:40,638 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:27:47,677 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:28:10,566 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:28:22,985 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:28:58,173 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:29:07,978 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:31:20,282 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:31:31,614 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:32:13,072 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:32:53,115 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:33:36,684 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:34:00,553 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:36:05,580 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:36:18,047 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:37:06,862 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:37:34,721 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:37:41,084 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:38:08,392 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:38:17,747 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:38:55,186 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:39:16,416 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:39:34,600 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:40:29,695 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:41:00,322 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:42:12,623 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:42:19,293 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-09 21:44:46,688 - WARNING - ocr_app.py - ocr_interface - 126 - Already closed
+2019-07-10 15:33:15,494 - WARNING - ocr_app.py - ocr_interface - 128 - Already closed
+2019-07-10 20:54:16,354 - WARNING - ocr_app.py - ocr_interface - 129 - Already closed
+2019-07-11 02:36:48,118 - WARNING - ocr_app.py - ocr_interface - 130 - Already closed
+2019-07-11 02:38:37,259 - WARNING - ocr_app.py - ocr_interface - 130 - Already closed
+2019-07-11 02:39:29,378 - WARNING - ocr_app.py - ocr_interface - 130 - Already closed
+2019-07-11 02:40:36,381 - WARNING - ocr_app.py - ocr_interface - 129 - Already closed
+2019-07-11 02:55:19,642 - WARNING - ocr_app.py - ocr_interface - 132 - Already closed
+2019-07-11 02:55:30,748 - WARNING - ocr_app.py - ocr_interface - 132 - Already closed
+2019-07-11 02:59:28,966 - WARNING - ocr_app.py - ocr_interface - 132 - Already closed
+2019-07-11 02:59:57,000 - WARNING - ocr_app.py - ocr_interface - 132 - Already closed
+2019-07-11 03:00:14,354 - WARNING - ocr_app.py - ocr_interface - 132 - Already closed
+2019-07-11 03:02:05,156 - WARNING - ocr_app.py - ocr_interface - 133 - Already closed
+2019-07-11 03:04:20,833 - WARNING - ocr_app.py - ocr_interface - 133 - Already closed
+2019-07-11 03:12:49,249 - WARNING - ocr_app.py - ocr_interface - 133 - Already closed
